@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+	background-color: #a5b686;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+header{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+h1, h2{
+	font-family: 'Lobster', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 30px;
+}
+
+header img{
+	border-radius: 170px;
+	width: 200px;
+	border: 7px solid #738d5b;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+main img{
+	max-width: 8%;
+	padding-left: 27px;
+}
+
