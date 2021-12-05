@@ -10,9 +10,10 @@ header{
 	padding-bottom: 10px;
 }
 
-h1, h2{
+h1{
 	font-family: 'Lobster', cursive;
 }
+
 
 header h1{
 	color: white;
@@ -26,12 +27,34 @@ header img{
 }
 
 main{
-	max-width: 800px;
+	max-width: 560px;
 	margin: 0 auto;
 }
 
 main img{
 	max-width: 8%;
-	padding-left: 27px;
+	padding-left: 17px;
+}
+
+h2{
+	text-align: center;
+	border-top: solid;
+	border-bottom: solid;
+	border-left: solid;
+	border-right: solid;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+h2 p{
+	font-size: 10px;
+}
+
+a{
+	color: #738d5b;
+}
+
+footer p{
+	text-align: center;
 }
 
